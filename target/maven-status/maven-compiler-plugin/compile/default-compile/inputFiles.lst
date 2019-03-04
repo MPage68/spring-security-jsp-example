@@ -2,4 +2,6 @@ C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\security\config
 C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\security\config\WebSecurityConfig.java
 C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\controller\UserController.java
 C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\security\config\MvcWebApplicationInitializer.java
+C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\controller\LoggerAdminController.java
+C:\repos\java\spring-security-jsp-example\src\main\java\com\log4j\Log4jDemo.java
 C:\repos\java\spring-security-jsp-example\src\main\java\com\demo\security\config\SecurityWebApplicationInitializer.java

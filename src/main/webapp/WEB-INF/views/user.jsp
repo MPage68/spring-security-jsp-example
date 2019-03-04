@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>BORAJI.COM</title>
+<title>User</title>
 </head>
 <body>
-  <h2>Spring Security 4 - Hello World Example</h2>
+  <h2>Spring Security</h2>
   <hr />
   <h3>User dashboard  </h3>
   <security:authorize access="isAuthenticated()">

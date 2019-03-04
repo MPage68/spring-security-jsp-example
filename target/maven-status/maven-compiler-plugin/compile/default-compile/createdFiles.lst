@@ -1,0 +1,7 @@
+com\demo\controller\UserController.class
+com\demo\security\config\SecurityWebApplicationInitializer.class
+com\demo\security\config\MvcWebApplicationInitializer.class
+com\log4j\Log4jDemo.class
+com\demo\security\config\WebSecurityConfig.class
+com\demo\security\config\WebConfig.class
+com\demo\controller\LoggerAdminController.class
